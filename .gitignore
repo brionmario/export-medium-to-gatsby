@@ -1,3 +1,8 @@
 NODE_MODULES
 generated_files
+
+# I'm using <ROOT>/output folder to export the markdown files.
 output
+
+# I'm using <ROOT>/dump folder to keep the `medium-export` folder downloaded from the profile.
+dump

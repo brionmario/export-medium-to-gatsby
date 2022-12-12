@@ -2,4 +2,4 @@
 
 
 //executable CLI entry point into this util
-require('../index.js');
+require('../lib/index.js');

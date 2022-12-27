@@ -33,6 +33,7 @@ ${data.body}
       folderForEachSlug: true, // separate folder for each blog post, where index.md and post images will live
       imagePath: '/resources', // <img src="/images2/[filename]" >. Used in the markdown files.
       defaultCodeBlockLanguage: 'js', // code fenced by default will be ``` with no lang. If most of your code blocks are in a specific lang, set this here.
+      imageStorageStrategy: 'REMOTE' // Where should be images be stored?
     };
   },
 };
